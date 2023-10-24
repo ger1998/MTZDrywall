@@ -5,7 +5,6 @@ import AppBar from './AppBar';
 import Toolbar from './ToolBar';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 
-
 const rightLink = {
   fontSize: 16,
   color: 'common.white',
